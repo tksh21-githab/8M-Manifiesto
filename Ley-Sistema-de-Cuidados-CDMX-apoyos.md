@@ -1,12 +1,15 @@
-# Ley del Sistema de Cuidados de la Ciudad de México — Análisis desde el movimiento de vida independiente
+# Ley del Sistema de Cuidados de la Ciudad de México — Hacia la reglamentación
 
-**Fuente:** https://sistemadecuidados.congresocdmx.gob.mx/predictamen.php  
-**Fecha del borrador inicial:** 15 de marzo de 2026  
-**Aprobación de la ley:** 26 de mayo de 2026 (Congreso de la Ciudad de México)  
-**Esta versión incorpora:**
-- Posicionamiento del colectivo "Cuidados sí; apoyos también" (6 de abril de 2026)
-- Observaciones del Colectivo al dictamen aprobado por las Comisiones Unidas (finales de mayo de 2026)
-- Lectura del colectivo tras la aprobación del 26 de mayo
+**Fuente:** <https://sistemadecuidados.congresocdmx.gob.mx/predictamen.php>
+**Fecha del borrador inicial:** 15 de marzo de 2026
+**Aprobación por el Congreso:** 26 de mayo de 2026
+
+> **Estado provisional.** Al momento de la redacción de este documento, el texto aprobado por el Congreso de la Ciudad de México **aún no ha sido publicado en la Gaceta Oficial**, por lo que la versión definitiva no está fijada. Una consolidación final de este análisis se realizará después de dicha publicación. Lo que sigue es un primer balance público, organizado en torno a la **agenda para la reglamentación**.
+
+**Este documento integra:**
+- Posicionamiento del colectivo "Cuidados sí; apoyos también" (6 de abril de 2026) y Observaciones al dictamen (finales de mayo de 2026)
+- Lectura de Margarita y de las madres cuidadoras articuladas tras la aprobación
+- Contexto del **cumplimiento de sentencia** y de la **Opinión Consultiva OC-31/25** de la Corte Interamericana de Derechos Humanos
 
 ---
 
@@ -157,72 +160,135 @@ Los apoyos no son accesorios: son parte del contenido esencial de los derechos. 
 
 ---
 
-## 4. Aprobación del 26 de mayo de 2026 — lo incorporado y lo no incorporado
+## 4. Tras la aprobación del 26 de mayo de 2026 — balance y agenda para la reglamentación
 
-El 26 de mayo de 2026 el Congreso de la Ciudad de México **aprobó la ley**. Algunos elementos sustantivos planteados por el movimiento se reflejaron en el texto final; sin embargo, **la mayoría de las propuestas centrales del colectivo "Cuidados sí; apoyos también" no fueron incorporadas, ni rechazadas con justificación expresa**.
+### 4.1 Origen y contexto del proceso
 
-### 4.1 Lo que sí quedó en la ley (logros del texto original que persisten)
-- Desinstitucionalización y vida independiente como **principios de ley** (Art. 3, V)
-- Modelo social de discapacidad en la definición legal
-- Sistema plurilingüe y accesible desde el diseño
-- Responsabilidad del Estado como eje central
-- Autonomía y autodeterminación como derechos (Art. 6, IX)
-- Mención del derecho a la **asistencia personal** en el Art. 70 (aunque vago — ver abajo)
+La aprobación del 26 de mayo no surge únicamente de una iniciativa legislativa. Se inscribe en un proceso más amplio en el que se entrelazan dos hilos:
 
-### 4.2 La crítica al proceso: incumplimiento del acuerdo de consulta
+1. **Cumplimiento de sentencia.** El proceso fue impulsado, en buena medida, por una sentencia obtenida por madres cuidadoras organizadas. El órgano judicial dispuso obligaciones legislativas en materia de cuidados, y el juez conserva la facultad de **revisar el cumplimiento en apego a derechos humanos** de personas cuidadoras y personas con discapacidad. La aprobación de la ley no cierra ese proceso: lo continúa.
+2. **OC-31/25 de la Corte Interamericana de Derechos Humanos.** Mientras el proceso interno avanzaba, la Corte IDH desarrolló la **Opinión Consultiva OC-31/25 sobre el contenido y alcance del derecho al cuidado** (audiencias públicas en San José en 2024, opinión emitida en 2025). El estándar interamericano que de allí resulta es la vara con la que se mide el cumplimiento doméstico, vía control de convencionalidad.
 
-Las Comisiones Unidas habían acordado que las propuestas presentadas durante el proceso de consulta serían **analizadas e incorporadas o, en su caso, justificadas expresamente las razones por las cuales no fueran acogidas**. Respecto a las propuestas del Colectivo, **no existe en el dictamen una referencia expresa**:
+En conjunto, estos dos hilos significan que **la conversación pública sobre esta ley aún no termina con la aprobación**: continúa en la reglamentación, en la supervisión judicial del cumplimiento y en la articulación regional.
 
-- **Primer escrito** (al diputado Víctor Varela, por correo y WhatsApp con acuse): **no aparece** ni en el cuerpo del dictamen ni en sus anexos.
-- **Segundo escrito** (6 de abril de 2026): aparece en los anexos del dictamen, pero **sin respuesta específica** sobre por qué cada propuesta fue aceptada o rechazada.
+### 4.2 Logros del texto aprobado
 
-Esto es inconsistente con el **artículo 4.3 de la CDPD** y con la **Observación General N° 7 del Comité CDPD**, que establecen que los Estados deben **explicar expresamente** por qué las propuestas formuladas por organizaciones de personas con discapacidad no fueron incorporadas.
+Tanto la lectura crítica como la lectura incrementalista coinciden en que el texto aprobado contiene avances sustantivos respecto del punto de partida (un marco normativo donde "discapacidad" aparecía como palabra general sin contenido para personas con discapacidad):
 
-### 4.3 Lo que no fue incorporado — punto por punto
+- **Vida independiente y desinstitucionalización** como principios de la ley (Art. 3, V)
+- **Modelo social de discapacidad** en la definición legal
+- **Asistencia personal nombrada** en el Art. 70 como uno de los componentes de la red de servicios de cuidado y apoyos
+- **Mecanismos de certificación** y formación territorializada para cuidadoras de personas con discapacidad (Art. 70, I)
+- **Espacios destinados a la atención** de personas con discapacidad física, sensorial, intelectual y psicosocial (Art. 70, III)
+- **Apoyos para la comunicación y la toma de decisiones** con enfoque social y desinstitucionalizado (Art. 70, IV)
+- **Sistema plurilingüe y accesible** desde el diseño
+- **Articulación amplia** que reconoce la diversidad de personas cuidadoras y de personas con discapacidad (motora, sensorial, intelectual, psicosocial, múltiple; adultas, jóvenes e infantes)
+- Como ley pionera, **eleva el estándar de referencia** para las legislaciones que están por venir en otros estados de la república y en el ámbito federal.
 
-| Tema | Propuesta del Colectivo | Estado en el dictamen aprobado |
+### 4.3 Dos lecturas dentro del movimiento
+
+Sobre el mismo texto aprobado conviven, dentro del movimiento mexicano de personas con discapacidad y de personas cuidadoras, **dos lecturas legítimas y complementarias**:
+
+**Lectura crítica — Colectivo "Cuidados sí; apoyos también"** (encabezada por el ex miembro del Comité CDPD Carlos Ríos)
+Mide la ley frente al estándar ideal de la CDPD y de la OC-31/25. Identifica que la asistencia personal quedó vaga, que los centros de vida independiente no entraron como tales, que el concepto de ajustes razonables se confunde con accesibilidad, y que el proceso de consulta no se ajustó al artículo 4.3 de la CDPD ni a la Observación General N° 7 del Comité CDPD. Ofrece una argumentación técnico-jurídica detallada utilizable para incidir en cada artículo.
+
+**Lectura incrementalista — Margarita y las madres cuidadoras articuladas**
+Mide la ley frente al punto de partida. Subraya que la asistencia personal, la certificación, los espacios para personas con discapacidad y la articulación amplia de organizaciones quedaron reconocidas en el texto, y que muchos de los contenidos sustantivos pueden todavía definirse en el reglamento y las reglas de operación. Continúa el trabajo articulado: presenta encuestas a grupos parlamentarios, con anexos sobre vida independiente, centros de vida independiente y estándares de competencia, y mantiene la alianza con otros actores.
+
+Estas dos lecturas no son opuestas. **Convergen** en señalar que los contenidos sustantivos del derecho a los apoyos —empezando por la asistencia personal y los centros de vida independiente— deben definirse en la reglamentación.
+
+### 4.4 La agenda compartida para la reglamentación
+
+Sintetizando lo señalado por ambas lecturas, la **agenda concreta para la fase reglamentaria** se organiza en los siguientes puntos:
+
+| # | Tema | Qué debe definirse / corregirse en el reglamento |
 |---|---|---|
-| **Asistencia personal — Art. 2** | Definición clara, criterios de elegibilidad por barreras del entorno, partida presupuestal específica para honorarios y derechos laborales | Sin definición en Art. 2; aparece en Art. 70 de manera **excesivamente vaga**, sin criterios ni partida presupuestal |
-| **Concepto de ajustes razonables** | Conforme a CDPD y Observación General N° 2 (medidas individualizadas, caso por caso, ex post) | Concepto **incluido pero confundido con accesibilidad** (medidas generales ex ante) — inconsistente con CDPD |
-| **Centros de cuidados y apoyos — Art. 2** | Espacios de articulación comunitaria, no solo de prestación en instalaciones | **Sin referencia expresa** en las definiciones |
-| **Concepto de autonomía — Art. 3** | Derecho inherente a todas las personas, no capacidad funcional | Se mantiene la definición en términos de "capacidades funcionales"; el argumento del fetichismo (Dussel) no fue atendido |
-| **Derechos laborales de los AP — Art. 7 Bis** | Base normativa para regular el servicio y las condiciones laborales de quienes lo prestan | **No incorporado, sin justificación** |
-| **Registro de asistentes personales — Art. 15 Bis** | Mecanismo de supervisión y articulación institucional del servicio | **No considerado, sin justificación** |
-| **Transferencias económicas para AP — Art. 54 IV Bis** | Obligación expresa de la CDMX de hacer transferencias para contratación de AP | **No reflejado**: se menciona el derecho a la AP pero no quedan definidos los alcances concretos de la obligación estatal |
-| **Estrategia de desinstitucionalización** | Principios, objetivos y estándares concretos con metas, plazos y financiamiento | Solo alude a una "contribución para procesos de desinstitucionalización" — **formulación excesivamente genérica** |
-| **Centros de vida independiente — Art. 69** | Incorporar CVI junto a los centros de cuidado, orientados a articular servicios y apoyos en la comunidad | Solo regula "centros de cuidado". **Los CVI no entraron en la ley.** |
-| **Apoyos para la toma de decisiones — Art. 70** | Amplio espectro (servicios financieros, salud, hogar, crianza...) conforme a CDPD Art. 12 | El dictamen añade la frase "**para sus cuidados**", que limita indebidamente el alcance |
-| **Discapacidad permanente vs. temporal** | Focalizar los apoyos en discapacidad permanente; las condiciones temporales pertenecen al sistema de salud | No se distingue claramente — riesgo de incorporar condiciones de salud al sistema de apoyos |
-| **Régimen presupuestal — Art. 6 transitorio** | Inversión suplementaria para nuevas obligaciones | Se eliminó la disposición que impedía aumentos en años subsecuentes (avance parcial), pero **se mantiene el "no incremento" en el ejercicio fiscal de entrada**: las acciones deberán implementarse con el presupuesto ya aprobado, mediante medidas compensatorias |
+| 1 | **Asistencia personal** | Definición operativa; criterios de elegibilidad basados en barreras del entorno; partida presupuestal específica; transferencias económicas a personas usuarias; derechos laborales y registro de asistentes personales |
+| 2 | **Centros de vida independiente** | Operacionalización de los "espacios" del Art. 70, III y de los "centros de cuidado" del Art. 69 de modo que puedan funcionar como **nodos comunitarios de articulación de servicios y apoyos**, con participación protagónica de personas con discapacidad |
+| 3 | **Apoyos para la toma de decisiones** | Aclarar el alcance más allá de "para sus cuidados", conforme al artículo 12 de la CDPD y a las reformas vigentes al Código Nacional de Procedimientos Civiles y Familiares y al Código Civil de la CDMX |
+| 4 | **Ajustes razonables** | Corregir la conceptualización conforme a la Observación General N° 2 del Comité CDPD (medidas individualizadas ex post, distintas de la accesibilidad ex ante) |
+| 5 | **Concepto de autonomía** | Operacionalizarlo en el reglamento como derecho inherente a todas las personas, con apoyos asociados, y no como capacidad funcional |
+| 6 | **Estrategia de desinstitucionalización** | Principios, objetivos, metas, plazos y mecanismos de financiamiento concretos para la transición a apoyos en la comunidad |
+| 7 | **Régimen presupuestario** | Diseño de partidas específicas, incremento progresivo real, articulación con los procesos de presupuesto anual |
+| 8 | **Discapacidad permanente y temporal** | Diferenciación operativa para que el sistema de apoyos no absorba lo que corresponde al sistema de salud |
+| 9 | **Participación del movimiento en el diseño reglamentario** | Garantizar consulta sustantiva con organizaciones de personas con discapacidad y de personas cuidadoras conforme al artículo 4.3 de la CDPD y a la Observación General N° 7, con justificación expresa de las propuestas que no se incorporen |
+| 10 | **Articulación con el estándar de competencia EC1711** | Vincular la certificación de asistencia personal (Art. 70, I) con el estándar de competencia laboral ya establecido en el CONOCER |
 
-### 4.4 La voz del colectivo tras la aprobación (mensaje del 26-27 de mayo)
+### 4.5 Voces tras la aprobación
 
-> «Esta ley, aunque sí es un avance, queda a deber bastante. **Los centros de vida independiente, en definitiva, no se lograron.** Aunque sí hay un apartado sobre espacios para actividades de personas con discapacidad, pero eso puede ser leído desde una perspectiva muy asistencialista. Desafortunadamente, el andamiaje mental de los operadores de las políticas públicas sigue siendo muy capacitista. Luego incluyen conceptos básicos como el de "ajustes razonables" que están francamente equivocados. Esas observaciones se las hicimos llegar antes de que se aprobara la reforma, pero no las tomaron en cuenta. **El principal problema con esta reforma es que no tiene suficientes recursos.** Y aunque tiene una norma de progresividad, cualquier aumento, así sea un peso, se puede presentar como ampliación del presupuesto. Pero la verdad es que, en el ejercicio fiscal de entrada, no habrá ampliación presupuestaria.»
+**Desde la lectura crítica** (Colectivo "Cuidados sí; apoyos también", mayo 2026):
 
-### 4.5 Tensiones estructurales que persisten
-- Las organizaciones de personas con discapacidad no aparecen como actores en la implementación — solo el INDISCAPACIDAD institucional
-- El INDISCAPACIDAD tiene voz pero no voto en la Junta rectora
-- La ley es de la Ciudad de México: su impacto regional depende de que otros estados y el gobierno federal la retomen como modelo
+> «Esta ley, aunque sí es un avance, queda a deber bastante. Los centros de vida independiente, en definitiva, no se lograron. Aunque sí hay un apartado sobre espacios para actividades de personas con discapacidad, pero eso puede ser leído desde una perspectiva muy asistencialista. […] El principal problema con esta reforma es que no tiene suficientes recursos. Y aunque tiene una norma de progresividad, cualquier aumento, así sea un peso, se puede presentar como ampliación del presupuesto. Pero la verdad es que, en el ejercicio fiscal de entrada, no habrá ampliación presupuestaria.»
+
+**Desde la lectura incrementalista** (Margarita, mayo 2026):
+
+> «Yo estoy satisfecha con el avance de tener, solo en la propuesta incluida, la "discapacidad" como una palabra general donde no se reconocía nada para las personas con discapacidad, a reconocerse los apoyos (en distintas dimensiones, incluida la asistencia personal), la certificación y los espacios para atención de personas con discapacidad (que justo podrían operar como centros de vida independiente), además de la articulación de organizaciones de base que incluían a toda la diversidad de personas cuidadoras y con discapacidad. Al incluir lo anterior en la Ley de la CDMX subimos el estándar para todos los estados de la república mexicana. Obviamente hay cosas que deben definirse e incluirse en el reglamento y en las reglas de operación. […] Este proceso aún no termina.»
 
 ---
 
-## 5. Por qué esto importa para RELAVIN y el movimiento latinoamericano
+## 5. El movimiento en la reglamentación — posicionamiento del Comité y articulación regional
 
-El Compromiso de Tlatelolco (agosto 2025, CEPAL) establece cuidados y discapacidad como agenda regional. La ley aprobada el 26 de mayo de 2026 es la primera **traducción legislativa concreta** de esa agenda en México — un avance real, pero **parcial**: el sistema integral de cuidados se creó, pero el **componente de apoyos y de centros de vida independiente quedó sin la base estructural que el movimiento exigía**.
+### 5.1 Por qué la reglamentación es decisiva
 
-La lectura estratégica que se desprende:
+La ley aprobada establece el andamiaje normativo. Los contenidos sustantivos —qué se entiende por asistencia personal, cómo se financia, quiénes la prestan, cómo se organizan los centros, cómo opera la desinstitucionalización— se definen en el **reglamento y en las reglas de operación**. Es allí donde la diferencia entre una ley con potencial transformador y una declaración de derechos sin instrumentos se decide.
 
-- **El paradigma del cuidado se aprueba más fácilmente que el paradigma del apoyo.** Mientras el sistema se nombra "de cuidados", la asistencia personal y los CVI entran como apéndices vagos. El siguiente combate es por la **arquitectura del reglamento**: qué se entiende por AP, cómo se financia, quién la opera, qué papel tienen los CVI.
-- **El proceso de consulta no fue conforme a CDPD Art. 4.3.** Esto es un argumento jurídico utilizable para incidir en la reglamentación y en futuras leyes en otros estados.
-- **La falta de presupuesto en el ejercicio de entrada** vuelve la ley una declaración de derechos sin recursos. Sin presupuesto, no hay AP, no hay CVI, no hay desinstitucionalización efectiva.
+Ambas lecturas dentro del movimiento, con tonos distintos, llegan a la misma conclusión: **el reglamento es el siguiente terreno**.
 
-### Secuencia regional actualizada
-- **Chile**: Ley N° 21.805 — Sistema Nacional de **Apoyos y Cuidados** (febrero 2026) — la denominación reconoce los apoyos en pie de igualdad
-- **Perú**: DS N° 001-2026-MIMP — define asistencia personal y reconoce el derecho en el Reglamento de la Ley 29973 (abril 2026)
-- **México CDMX**: **Ley del Sistema de Cuidados aprobada el 26 de mayo de 2026** — primera ley integral, pero los apoyos y los CVI quedan sin estructura sustantiva. La denominación misma ("cuidados", no "cuidados y apoyos") refleja el desbalance.
+### 5.2 La intervención en doble registro
 
-### El siguiente paso en cada país
-- **CDMX**: pelear la **reglamentación** — definir AP, asignar presupuesto, incorporar CVI como nodos de implementación, corregir el concepto de ajustes razonables
-- **Perú**: implementación del DS 001-2026-MIMP con presencia del movimiento en CONADIS, MTPE y la formación de la competencia laboral del AP
-- **Chile**: seguimiento de la implementación de la Ley 21.805 — el modelo de denominación más alineado con el movimiento
-- **Regional**: que el **movimiento de VI esté en la implementación** — modelos de servicio, reglamentación de la AP, capacitación, y diseño/financiamiento de los centros
+El movimiento puede entrar a la fase reglamentaria con dos registros complementarios:
+
+- **Argumentación CDPD / OC-31/25**: utilizar la argumentación técnico-jurídica para exigir que el reglamento se ajuste al estándar interamericano y al modelo de derechos humanos. Esta vía utiliza los documentos del Colectivo "Cuidados sí; apoyos también" y la jurisprudencia del Comité CDPD y de la Corte IDH.
+- **Diseño operativo**: presentar propuestas concretas de operacionalización en cada uno de los diez puntos de la agenda (4.4), apoyadas en la experiencia comparada (Costa Rica, Chile, Perú, República Dominicana) y en los instrumentos ya existentes en México (estándar EC1711 en el CONOCER).
+
+Ambos registros son necesarios. El primero da la cobertura jurídica; el segundo, la viabilidad técnica.
+
+### 5.3 Lo regional: OC-31/25 como anchor
+
+La aprobación de la ley de la CDMX se inscribe en una secuencia regional que se acelera tras la emisión de la Opinión Consultiva OC-31/25:
+
+- **Chile**: Ley N° 21.805 — Sistema Nacional de **Apoyos y Cuidados** (febrero de 2026) — denominación que reconoce los apoyos en pie de igualdad con los cuidados.
+- **Perú**: Decreto Supremo N° 001-2026-MIMP — define la asistencia personal y reconoce el derecho en el Reglamento de la Ley 29973 (abril de 2026).
+- **México CDMX**: Ley del Sistema de Cuidados aprobada el 26 de mayo de 2026.
+
+OC-31/25 actúa como **ancla regional**: su contenido es exigible por control de convencionalidad en todos los Estados parte y vincula la actuación tanto de los poderes legislativos como de los tribunales internos. Esto convierte cada nueva ley nacional en un **antecedente comparable** y eleva el piso para las próximas.
+
+### 5.4 Próximos hitos
+
+- **Publicación de la ley en la Gaceta Oficial de la Ciudad de México** (en curso): fija el texto definitivo y abre formalmente el plazo reglamentario.
+- **Inicio del proceso reglamentario**: momento clave para que el movimiento entre con propuestas concretas en los diez puntos de la agenda.
+- **Diciembre de 2026** — 68ª Reunión de la Mesa Directiva de la Conferencia Regional sobre la Mujer (CEPAL, Santiago de Chile): espacio para situar el caso CDMX como antecedente regional rumbo a 2028.
+- **2028** — XVII Conferencia Regional sobre la Mujer (Colombia): horizonte en el que las legislaciones nacionales sobre cuidados y apoyos deberían poder presentarse como buenas prácticas implementadas.
+
+### 5.5 Lo que aporta el Comité
+
+El Comité de Seguimiento del Compromiso de Tlatelolco —compuesto por la Red Latinoamericana de Vida Independiente (RELAVIN) y el Movimiento de Personas con Discapacidad de México— está en posición de aportar a la reglamentación de la CDMX y, en paralelo, a los procesos análogos en otros países:
+
+- **Experiencia comparada**: Costa Rica (Ley 9379), Perú (DS 001-2026-MIMP), República Dominicana (módulos de capacitación de asistencia personal en el sistema integral de cuidado, vía OIT).
+- **Estándar de competencia ya establecido**: EC1711 en el CONOCER (México), trabajado de manera articulada entre personas cuidadoras, personas con discapacidad y RELAVIN.
+- **Articulación regional**: el Manifiesto del 8 de marzo de 2026, las transmisiones en Facebook Live (junio-agosto), el webinar de septiembre de 2026, y la trayectoria rumbo a la XVII Conferencia de Colombia en 2028.
+
+El siguiente paso es **entrar a la reglamentación con propuestas concretas** en los puntos de la agenda, manteniendo viva la doble pertenencia del movimiento: presencia en la mesa técnica del diseño operativo, y en la mesa jurídica de la denuncia y la exigibilidad.
+
+---
+
+## Anexo. Detalle de las observaciones técnicas del Colectivo "Cuidados sí; apoyos también"
+
+A continuación se presenta, como referencia para el trabajo reglamentario, el detalle de las observaciones técnicas elaboradas por el Colectivo "Cuidados sí; apoyos también" sobre el dictamen aprobado. Esta argumentación constituye insumo disponible para la incidencia en la reglamentación.
+
+| Tema | Propuesta del Colectivo | Estado en el dictamen aprobado |
+|---|---|---|
+| **Asistencia personal — Art. 2** | Definición clara, criterios de elegibilidad por barreras del entorno, partida presupuestal específica para honorarios y derechos laborales | Sin definición en Art. 2; aparece en Art. 70 de manera vaga, sin criterios ni partida presupuestal |
+| **Concepto de ajustes razonables** | Conforme a CDPD y Observación General N° 2 (medidas individualizadas, caso por caso, ex post) | Concepto incluido pero confundido con accesibilidad (medidas generales ex ante) |
+| **Centros de cuidados y apoyos — Art. 2** | Espacios de articulación comunitaria, no solo de prestación en instalaciones | Sin referencia expresa en las definiciones |
+| **Concepto de autonomía — Art. 3** | Derecho inherente a todas las personas, no capacidad funcional | Se mantiene la definición en términos de "capacidades funcionales" |
+| **Derechos laborales de los AP — Art. 7 Bis** | Base normativa para regular el servicio y las condiciones laborales de quienes lo prestan | No incorporado |
+| **Registro de asistentes personales — Art. 15 Bis** | Mecanismo de supervisión y articulación institucional del servicio | No considerado |
+| **Transferencias económicas para AP — Art. 54 IV Bis** | Obligación expresa de la CDMX de hacer transferencias para contratación de AP | No reflejado en la obligación estatal concreta |
+| **Estrategia de desinstitucionalización** | Principios, objetivos y estándares concretos con metas, plazos y financiamiento | Solo alude a una "contribución para procesos de desinstitucionalización" |
+| **Centros de vida independiente — Art. 69** | Incorporar CVI junto a los centros de cuidado | Solo regula "centros de cuidado" |
+| **Apoyos para la toma de decisiones — Art. 70** | Amplio espectro (servicios financieros, salud, hogar, crianza…) conforme a CDPD Art. 12 | El dictamen añade la frase "para sus cuidados" |
+| **Discapacidad permanente vs. temporal** | Focalizar los apoyos en discapacidad permanente | No se distingue claramente |
+| **Régimen presupuestal — Art. 6 transitorio** | Inversión suplementaria para nuevas obligaciones | Se mantiene el "no incremento" en el ejercicio fiscal de entrada |
+
+Sobre el proceso de consulta, el Colectivo señala adicionalmente que no existe en el dictamen una respuesta específica a sus dos escritos (uno enviado al diputado Víctor Varela y otro entregado el 6 de abril de 2026), lo cual considera inconsistente con el acuerdo de las Comisiones Unidas y con el artículo 4.3 de la CDPD y la Observación General N° 7 del Comité CDPD. Este señalamiento procedimental es, por sí mismo, una base para exigir que el proceso reglamentario sí se ajuste a esos estándares.
