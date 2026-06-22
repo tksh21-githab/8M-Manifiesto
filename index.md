@@ -21,6 +21,9 @@ Repositorio de documentos de RELAVIN relacionados con la agenda de género, cuid
 - [Briefing: Stefan Trömel (OIT)](Stefan-Tromel)  
   Reunión 13 de abril de 2026
 
+- [Perfil: Maryangel García-Ramos Guadiana (Women Enabled International)](Maryangel-Garcia-Ramos)  
+  Executive Director de WEI, fundadora de Mexicanas con Discapacidad — recomendada por Stefan Trömel para integrarse al webinar de septiembre de 2026 (junio 2026)
+
 ---
 
 *RELAVIN — Red Latinoamericana de Vida Independiente*
