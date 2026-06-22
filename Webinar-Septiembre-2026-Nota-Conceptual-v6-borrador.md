@@ -8,6 +8,17 @@
 
 _Segunda mitad de septiembre de 2026 · Modalidad virtual · Duración: 2 horas_
 
+**Horario propuesto: 10:00 AM hora de Ciudad de México (16:00 UTC).** Este horario maximiza la accesibilidad para América Latina, manteniendo Ginebra dentro de las primeras horas de la tarde-noche para la sede de la OIT.
+
+| Zona | Hora local |
+|---|---|
+| Ciudad de México | 10:00 |
+| Bogotá / Lima / Quito / Ciudad de Panamá | 11:00 |
+| Washington D.C. (Women Enabled International) | 12:00 |
+| Buenos Aires / Santiago de Chile / São Paulo / Montevideo / Asunción | 13:00 |
+| Ginebra (OIT) | 18:00 (CEST — Europa en horario de verano hasta el 25 de octubre de 2026) |
+| Tokio | 01:00 del día siguiente |
+
 ---
 
 ## Idea central
