@@ -1,14 +1,16 @@
-# Nota Conceptual (versión 6 — borrador)
+# Nota Conceptual (versión 6)
 
-> **Documento de trabajo en revisión.** Esta versión incorpora la retroalimentación de Stefan Trömel (OIT, 17 de junio de 2026): (a) la OIT no requiere dos intervenciones — la principal la hará Paz Arancibia, con apertura institucional de Stefan; (b) se incorpora a **Women Enabled International** (Maryangel García-Ramos) como invitada de honor en el Bloque 2, dedicado a la trayectoria y retos de los derechos humanos de las mujeres con discapacidad. La versión definitiva se fijará tras consultar a las y los co-organizadores.
+> **Documento en consulta con las y los co-organizadores.** Esta versión incorpora la retroalimentación de Stefan Trömel (OIT, 17 de junio de 2026): (a) la OIT realizará una sola intervención — la principal a cargo de Paz Arancibia, con apertura institucional de Stefan; (b) se incorpora a **Women Enabled International** (Maryangel García-Ramos) como invitada de honor en el Bloque 2, dedicado a la trayectoria y retos de los derechos humanos de las mujeres con discapacidad. La fecha propuesta (viernes 11 de septiembre de 2026) está pendiente de confirmación por parte del Comité y de las y los co-organizadores.
 
 ## Las mujeres con discapacidad en el centro de la economía del cuidado
 
 ### Primer webinar de la serie del Comité de Seguimiento del Compromiso de Tlatelolco, rumbo a la XVII Conferencia de las Mujeres (Colombia, 2028)
 
-_Segunda mitad de septiembre de 2026 · Modalidad virtual · Duración: 2 horas_
+_**Viernes 11 de septiembre de 2026 (fecha propuesta)** · Modalidad virtual · Duración: 2 horas_
 
 **Horario propuesto: 10:00 AM hora de Ciudad de México (16:00 UTC).** Este horario maximiza la accesibilidad para América Latina, manteniendo Ginebra dentro de las primeras horas de la tarde-noche para la sede de la OIT.
+
+El webinar se realizará en la **víspera del Día Nacional de la Mujer con Discapacidad en México (12 de septiembre)**, lo que permite abrir el encuentro como antesala simbólica de esa conmemoración.
 
 | Zona | Hora local |
 |---|---|
@@ -147,4 +149,4 @@ ACNUDH (OHCHR), *Sistemas de Cuidados y Apoyo a las Personas con Discapacidad �
 
 ---
 
-_Versión 6 (borrador): incorpora la retroalimentación de Stefan Trömel del 17 de junio de 2026. Cambios principales respecto a v5: (i) la OIT pasa de dos bloques a uno solo (Bloque 3, intervención principal de Paz Arancibia con apertura institucional de Stefan), por equilibrio con las demás agencias de NNUU; (ii) se incorpora a **Women Enabled International (Maryangel García-Ramos)** como invitada de honor en el nuevo Bloque 2, dedicado a la trayectoria y retos de los derechos humanos de las mujeres con discapacidad; (iii) se reordenan los bloques posteriores; (iv) se actualiza el nombre oficial de la Conferencia («Conferencia de las Mujeres»); (v) se incorporan dos nuevos hitos en los antecedentes (AGC y primera charla en Manzana de Suba). Las notas tácticas de incidencia se mantienen en documento interno aparte._
+_Versión 6: incorpora la retroalimentación de Stefan Trömel del 17 de junio de 2026 y la propuesta de fecha del 22 de junio. Cambios principales respecto a v5: (i) la OIT pasa de dos bloques a uno solo (Bloque 3, intervención principal de Paz Arancibia con apertura institucional de Stefan), por equilibrio con las demás agencias de NNUU; (ii) se incorpora a Women Enabled International (Maryangel García-Ramos) como invitada de honor en el nuevo Bloque 2, dedicado a la trayectoria y retos de los derechos humanos de las mujeres con discapacidad; (iii) se reordenan los bloques posteriores; (iv) se actualiza el nombre oficial de la Conferencia («Conferencia de las Mujeres»); (v) se incorporan nuevos hitos en los antecedentes (AGC y primera charla en Manzana de Suba); (vi) **fecha propuesta: viernes 11 de septiembre de 2026, víspera del Día Nacional de la Mujer con Discapacidad en México (pendiente de confirmación con co-organizadores).** Las notas tácticas de incidencia se mantienen en documento interno aparte._
