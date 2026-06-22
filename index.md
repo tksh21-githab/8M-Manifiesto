@@ -6,6 +6,9 @@ Repositorio de documentos de RELAVIN relacionados con la agenda de género, cuid
 
 ## Documentos
 
+- [**Webinar de septiembre de 2026 — Nota Conceptual (v6 — borrador)**](Webinar-Septiembre-2026-Nota-Conceptual-v6-borrador)  
+  **En revisión** — incorpora la retroalimentación de Stefan Trömel del 17 de junio (OIT en un solo bloque + Women Enabled como invitada de honor en Bloque 2)
+
 - [Webinar de septiembre de 2026 — Nota Conceptual (v5)](Webinar-Septiembre-2026-Nota-Conceptual)  
   Primer webinar de la serie del Comité de Seguimiento del Compromiso de Tlatelolco rumbo a Colombia 2028 — *Las mujeres con discapacidad en el centro de la economía del cuidado*
 
