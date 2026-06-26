@@ -27,6 +27,9 @@ Repositorio de documentos de RELAVIN relacionados con la agenda de género, cuid
 - [Perfil: Maryangel García-Ramos Guadiana (Women Enabled International)](Maryangel-Garcia-Ramos)  
   Executive Director de WEI, fundadora de Mexicanas con Discapacidad — recomendada por Stefan Trömel para integrarse al webinar de septiembre de 2026 (junio 2026)
 
+- [Resumen: Herramienta de Evaluación a Nivel País — Sistemas de Cuidados y Apoyo a las Personas con Discapacidad (ACNUDH/OHCHR, 2026)](Herramienta-OHCHR-Sistemas-Cuidados-Apoyo-resumen)  
+  Resumen ejecutivo del documento de 81 páginas (HR/PUB/25/3): genealogía del marco, 5R+, distinción cuidado/apoyo, 13 indicadores nuevos sobre discapacidad y relevancia para el proceso rumbo a Colombia 2028
+
 ---
 
 *RELAVIN — Red Latinoamericana de Vida Independiente*
