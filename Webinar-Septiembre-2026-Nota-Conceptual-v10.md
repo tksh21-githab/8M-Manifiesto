@@ -46,7 +46,7 @@ Cada webinar suma aliados del sistema de Naciones Unidas y firmas al manifiesto,
 El **Comité de Seguimiento del Compromiso de Tlatelolco**, que reúne:
 
 - La **Red Latinoamericana de Vida Independiente (RELAVIN)** — organizaciones de vida independiente en 14 países; infraestructura regional y base técnica.
-- El **Movimiento de Personas con Discapacidad de México** — fuerza de movilización y presencia colectiva.
+- El **Movimiento de Personas con Discapacidad** — fuerza de movilización y presencia colectiva.
 
 En colaboración con la **OIT**, y con la participación de **Women Enabled International (WEI)**, el **PNUD**, el **ACNUDH/OHCHR**, **ONU Mujeres** y otros organismos del sistema de Naciones Unidas.
 
@@ -73,7 +73,7 @@ Situar a las mujeres con discapacidad, **como sujetos de derechos**, en el centr
 | 0:32 – 0:52 | **3. La OIT y la asistencia personal en América Latina.** La política de la OIT de incorporar la asistencia personal a los sistemas de cuidados, y ejemplos regionales; trayectoria del modelo: Costa Rica → República Dominicana → Perú. | Paz Arancibia (OIT, Oficina Regional), con apertura de Stefan Trömel (OIT, Ginebra) |
 | 0:52 – 1:10 | **4. Cooperación internacional y vida independiente.** El programa conjunto del PNUD (Global Disability Fund) y el apoyo a las mujeres con discapacidad, en particular la **vida independiente del Centro Tobé (Bogotá)**. | Marta Álvarez (PNUD, Oficina Regional, Panamá) |
 | 1:10 – 1:25 | **5. Que nadie quede atrás en los sistemas de cuidado.** El marco de derechos humanos de los sistemas de apoyo para la inclusión en la comunidad (ACNUDH, A/HRC/52/52; art. 19 CDPD) y lo que hace falta para que las personas con discapacidad no queden atrás. | Facundo Chávez (ACNUDH/OHCHR) |
-| 1:25 – 1:42 | **6. Las voces de las mujeres reunidas por el Comité.** Según el modelo de derechos humanos de la discapacidad, hay **tantas lecturas de las 5R como personas con discapacidad**: los cuidados desde la autonomía y la vida independiente. | Jessica Aguilar (Movimiento de Personas con Discapacidad de México) y Luisa Barragán (Colombia) |
+| 1:25 – 1:42 | **6. Las voces de las mujeres reunidas por el Comité.** Según el modelo de derechos humanos de la discapacidad, hay **tantas lecturas de las 5R como personas con discapacidad**: los cuidados desde la autonomía y la vida independiente. | Jessica Aguilar (Movimiento de Personas con Discapacidad) y Luisa Barragán (Colombia) |
 | 1:42 – 2:00 | **7. La respuesta: respons-habilidad.** Tras escuchar todas las voces, ONU Mujeres responde: de la escucha a la acción, la responsabilidad entendida como *capacidad de responder* y de conducir a las mujeres con discapacidad hasta la mesa donde se deciden las políticas. Diálogo e intercambio abierto rumbo a 2028. | Silke Staab (ONU Mujeres — Especialista de empoderamiento económico, Oficina Regional para las Américas y el Caribe), en representación de la Directora Regional Bibiana Aído |
 
 *Los tiempos son orientativos y pueden ajustarse según las confirmaciones.*
