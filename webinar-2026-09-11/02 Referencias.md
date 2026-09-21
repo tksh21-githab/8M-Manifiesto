@@ -41,9 +41,10 @@ https://docs.un.org/es/CRPD/C/GC/5
 ## Women Enabled International — Maryangel García-Ramos
 
 <a id="r6"></a>
-**[R6] *Trend Report 2026: Disability is a Gender Issue*** · 0:28:44
-El «primer reporte de tendencias» de WEI. Los cuidados son uno de los temas centrales. Disponible en inglés y español.
-https://womenenabled.org/reports/trend-report-2026/
+**[R6] *Informe de Tendencias 2026: La Discapacidad es un Asunto de Género*** (WEI, abril de 2026) · 0:28:44
+El «primer reporte de tendencias» de WEI. Describe seis tendencias contra los derechos y la democracia que afectan a las mujeres con discapacidad: democracia interrumpida; la igualdad de género como campo de batalla; herramientas de justicia utilizadas para hacer daño; el género como colonialismo; más conflictos, menos derechos; las prioridades cambian, el daño se expande. Maryangel lo presentó señalando los cuidados como uno de los temas más importantes; en el informe, los cuidados aparecen en los testimonios, no como una tendencia propia.
+- Página: https://womenenabled.org/reports/trend-report-2026/
+- Informe en español (PDF): https://womenenabled.org/wp-content/uploads/2026/04/2026-WEI-Trend-Report_ESP.pdf
 
 <a id="r7"></a>
 **[R7] *Mi cuerpo, (pero no) mis reglas*** · 0:22:44
