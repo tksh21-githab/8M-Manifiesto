@@ -144,7 +144,7 @@ Volver al [ÍNDICE](00%20%C3%8DNDICE%20%E2%80%94%20Webinar%2011-sep-2026.md)
 `0:15:20` relatando y que esto es como solamente la introducción así que muchísimas gracias y  
 
 ## 2 · Liderazgo feminista con discapacidad, cuidados y vida autodeterminada
-*Maryangel García-Ramos (Women Enabled International)* · [▶ 0:15:28](https://youtu.be/5xtJ3tMDwrc?t=931)
+*Maryangel García-Ramos (Women Enabled International)* · [▶ 0:15:35](https://youtu.be/5xtJ3tMDwrc?t=938)
 
 `0:15:27` ahora me voy a permitir presentar a Maryangel que por aquí también ya está con nosotros bienvenida  
 `0:15:36` Maryangel buenos días y bueno ella nos va a hablar sobre el movimiento global por la autonomía  

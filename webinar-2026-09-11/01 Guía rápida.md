@@ -41,7 +41,7 @@ Tlatelolco, párrafo 30 [R1]; la resolución de la OIT de 2024 [R14]; la OC-31/2
 - **Hoja de ruta:** segundo webinar entre enero y marzo de 2027, tercero en un año, y llegar en número a la **XVII Conferencia Regional sobre la Mujer (Colombia, 2028)**.
 - Barreras: incumplimiento de los artículos 12 y 19 de la Convención, falta de leyes de asistencia personal, falta de reconocimiento jurídico de los centros de vida independiente, y «falsas barreras económicas».
 
-### 2 · Maryangel García-Ramos (WEI) — Liderazgo feminista con discapacidad · [▶ 0:15](https://youtu.be/5xtJ3tMDwrc?t=931)
+### 2 · Maryangel García-Ramos (WEI) — Liderazgo feminista con discapacidad · [▶ 0:15](https://youtu.be/5xtJ3tMDwrc?t=938)
 - Parte de dos preguntas: **¿quién cuida?** y **¿quién decide sobre mi cuidado?**
 - Distingue *cuidado* de *apoyo* (idea 1) y explica por qué parte del movimiento de discapacidad desconfía de la palabra *cuidado* (idea 3) [R7].
 - Hay un abismo entre lo que se dice en lo global y lo que ocurre en lo local: si las líderes con discapacidad no participan en el diseño de los sistemas de cuidados, esos sistemas no les funcionan. Ejemplos locales: *Dislocadas* en Argentina [R8].
