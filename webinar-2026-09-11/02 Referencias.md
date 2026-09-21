@@ -47,8 +47,10 @@ https://womenenabled.org/reports/trend-report-2026/
 
 <a id="r7"></a>
 **[R7] *Mi cuerpo, (pero no) mis reglas*** · 0:22:44
-Informe de WEI con Inclusion International sobre capacidad jurídica y salud sexual y reproductiva de mujeres con discapacidad intelectual o psicosocial. Maryangel lo cita como «mi cuerpo pero no mi decisión».
-https://womenenabled.org/reports/my-body-but-not-my-choice-mi-cuerpo-pero-no-mis-reglas/
+*Vulneraciones del derecho a la capacidad jurídica de mujeres con discapacidad intelectual y mujeres con discapacidad psicosocial, y propuestas para la acción* (2025). Investigación global de dos años de WEI con ocho organizaciones de personas con discapacidad y más de 100 mujeres con discapacidad intelectual o psicosocial. Trata cómo la negación de la capacidad jurídica afecta la salud sexual y reproductiva, con la institucionalización y la violencia de género como factores agravantes. Maryangel lo cita como «mi cuerpo pero no mi decisión».
+- Página: https://womenenabled.org/reports/my-body-but-not-my-choice-mi-cuerpo-pero-no-mis-reglas/
+- Informe en español (PDF): https://womenenabled.org/wp-content/uploads/2025/10/Mi-Cuerpo_pero-no_Mis-Reglas.pdf
+- Versión fácil de entender (PDF): https://womenenabled.org/wp-content/uploads/2025/09/Mi-Cuerpo-pero-no-Mis-Reglas-FDE-1.pdf
 
 <a id="r8"></a>
 **[R8] *Dislocadas* — Mesa de Trabajo en Discapacidad y Derechos Humanos (Córdoba, Argentina)** · 0:27:02
