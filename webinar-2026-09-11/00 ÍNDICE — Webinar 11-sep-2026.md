@@ -39,7 +39,7 @@ No hace falta verlo todo. Elija por dónde entrar:
 | 7 | 1:55 | [▶](https://youtu.be/5xtJ3tMDwrc?t=6924) | **Luisa Barragán** · CVI Tobé (Colombia) y **Jessica Aguilar** · Movimiento de Personas con Discapacidad (México) | Las 5R releídas desde las mujeres con discapacidad | [R5](02%20Referencias.md#r5) |
 | — | 2:10 | [▶](https://youtu.be/5xtJ3tMDwrc?t=7788) | **Martha, Wendy, Luisa, Jessica** | Cierre: firma del Manifiesto, 2028, Día Nacional de la Mujer con Discapacidad en México (12 de septiembre) | [R2](02%20Referencias.md#r2) [R24](02%20Referencias.md#r24) |
 
-**Firmar el Manifiesto 8M:** https://docs.google.com/forms/d/e/1FAIpQLScb71nMw-dcXSKpl7nosLDNvYnw_bdWRkxKNiav0oHy_v4F7A/viewform
+💜 **Firmar el Manifiesto 8M** 💜 https://docs.google.com/forms/d/e/1FAIpQLScb71nMw-dcXSKpl7nosLDNvYnw_bdWRkxKNiav0oHy_v4F7A/viewform
 
 ---
 

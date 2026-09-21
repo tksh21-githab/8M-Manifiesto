@@ -114,4 +114,4 @@ Tlatelolco, párrafo 30 [R1]; la resolución de la OIT de 2024 [R14]; la OC-31/2
 | Enero–marzo 2027 | Segundo webinar: sistemas de cuidados y apoyos |
 | Septiembre 2027 | Tercer webinar, de cierre |
 | 2028 | XVII Conferencia Regional sobre la Mujer (Colombia) y CSW72 |
-| Ahora | Firmar el Manifiesto 8M: https://docs.google.com/forms/d/e/1FAIpQLScb71nMw-dcXSKpl7nosLDNvYnw_bdWRkxKNiav0oHy_v4F7A/viewform |
+| Ahora | 💜 **Firmar el Manifiesto 8M** 💜 https://docs.google.com/forms/d/e/1FAIpQLScb71nMw-dcXSKpl7nosLDNvYnw_bdWRkxKNiav0oHy_v4F7A/viewform |
