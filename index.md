@@ -12,6 +12,15 @@ Repositorio de documentos de RELAVIN y del Comité de Seguimiento del Compromiso
 
 Primer webinar de la serie del Comité, en alianza con la OIT — *Las mujeres con discapacidad en el centro de la economía del cuidado* (11 de septiembre de 2026).
 
+**▶ Grabación:** [youtu.be/5xtJ3tMDwrc](https://youtu.be/5xtJ3tMDwrc)
+
+**Guía del webinar** — para volver sobre lo que se dijo:
+- [**Índice**](webinar-2026-09-11/00%20%C3%8DNDICE%20%E2%80%94%20Webinar%2011-sep-2026.md) — quién habló, de qué, y enlace al minuto exacto del video
+- [**Guía rápida**](webinar-2026-09-11/01%20Gu%C3%ADa%20r%C3%A1pida.md) — lo esencial de cada intervención
+- [**Referencias**](webinar-2026-09-11/02%20Referencias.md) — las 26 leyes, convenios, informes y programas mencionados, con enlace
+- [Transcripción completa](webinar-2026-09-11/03%20Transcripci%C3%B3n%20completa.md) — automática, sin revisión
+
+Preparación:
 - [**Nota Conceptual — v10**](Webinar-Septiembre-2026-Nota-Conceptual-v10.md) — versión más reciente publicada
 - [Nota Conceptual — v9](Webinar-Septiembre-2026-Nota-Conceptual-v9.md) — histórico
 - [Nota Conceptual — v7](Webinar-Septiembre-2026-Nota-Conceptual-v7.md) — histórico
