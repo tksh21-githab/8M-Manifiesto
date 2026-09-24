@@ -32,6 +32,10 @@ Preparación:
 - [**Las 5R, la discapacidad y los sistemas de cuidado (OIT, ONU Mujeres, ACNUDH)**](5R-discapacidad-sistemas-de-cuidado-OIT-ONUMujeres-ACNUDH.md) — trayectoria de las 5R (de la economía feminista a la inclusión de la discapacidad), reinterpretación por cada agencia, y el lugar del movimiento de vida independiente. Incluye el caso de Colombia (Global Disability Fund)
 - [**Resumen: Herramienta de Evaluación a Nivel País — Sistemas de Cuidados y Apoyo a las Personas con Discapacidad (ACNUDH, 2026)**](Herramienta-OHCHR-Sistemas-Cuidados-Apoyo-resumen.md) — genealogía del marco, 5R+, distinción cuidado/apoyo, 13 indicadores nuevos de discapacidad
 
+## Personas mayores — la convención en negociación
+
+- [**Convención sobre los derechos de las personas mayores — de la Convención Interamericana al proceso de la ONU**](Convencion-personas-mayores-ONU-y-Convencion-Interamericana.md) — qué dice ya el artículo 7 de la Convención Interamericana (2015) sobre **asistencia personal**, los 14 Estados parte, y dónde está hoy la negociación del instrumento universal: la 1ª sesión del Grupo de Trabajo Intergubernamental (julio 2026), el documento *Food for Thought*, la hoja de ruta hasta el borrador cero (octubre 2027) y cómo participar
+
 ## Leyes y políticas — Ciudad de México
 
 - [Ley CDMX — El texto promulgado](Ley-Sistema-de-Cuidados-CDMX-texto-promulgado.md) — análisis del texto definitivo (Gaceta Oficial No. 1893 Bis, 2-jul-2026)
