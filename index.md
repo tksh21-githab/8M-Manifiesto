@@ -36,6 +36,10 @@ Preparación:
 
 - [**Convención sobre los derechos de las personas mayores — de la Convención Interamericana al proceso de la ONU**](Convencion-personas-mayores-ONU-y-Convencion-Interamericana.md) — qué dice ya el artículo 7 de la Convención Interamericana (2015) sobre **asistencia personal**, los 14 Estados parte, y dónde está hoy la negociación del instrumento universal: la 1ª sesión del Grupo de Trabajo Intergubernamental (julio 2026), el documento *Food for Thought*, la hoja de ruta hasta el borrador cero (octubre 2027) y cómo participar
 
+## Marco teórico — el modelo de derechos humanos de la discapacidad
+
+- [**Theresia Degener, «La discapacidad en clave de derechos humanos» (2016)** — traducción completa al español](https://github.com/tksh21-githab/relavin/blob/main/crpd/degener-2016-la-discapacidad-en-clave-de-derechos-humanos.md) — las seis proposiciones por las que el modelo de derechos humanos supera al modelo social, y la igualdad transformativa como concepto de igualdad de la CDPD. Degener presidió el Comité CDPD en 2017–2018. Contiene el argumento de fondo para sostener que **la asistencia personal no es un parche provisional hasta que la sociedad sea accesible, sino un derecho social exigible**. Original en acceso abierto (CC BY 4.0): *Laws* 5(3), 35
+
 ## Leyes y políticas — Ciudad de México
 
 - [Ley CDMX — El texto promulgado](Ley-Sistema-de-Cuidados-CDMX-texto-promulgado.md) — análisis del texto definitivo (Gaceta Oficial No. 1893 Bis, 2-jul-2026)

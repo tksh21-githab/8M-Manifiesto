@@ -169,3 +169,22 @@ https://segib.org/es/iberoamerica-aprueba-la-carta-de-cuidados-y-apoyos-un-compr
 **[R26] Pacto Birregional por los Cuidados — Unión Europea, América Latina y el Caribe** · 1:49:41
 Acordado en la IV Cumbre CELAC–UE (Santa Marta).
 https://eulacfoundation.org/en/our-work/bi-regional-pact-care-european-union-latin-america-and-caribbean
+
+---
+
+## Lectura de fondo — el modelo de derechos humanos de la discapacidad
+
+*Añadido en septiembre de 2026. No se citó en el webinar, pero es el marco teórico que sostiene varias de las intervenciones: la distinción entre apoyo y cuidado, por qué la asistencia personal no es un parche provisional, y por qué la CDPD exige transformar estructuras y no solo remover barreras.*
+
+<a id="r27"></a>
+**[R27] Theresia Degener, «La discapacidad en clave de derechos humanos» (2016)** — traducción completa al español
+Degener fue miembro del Comité sobre los Derechos de las Personas con Discapacidad (2011–2018) y su presidenta (2017–2018). Aquí expone las **seis proposiciones** por las que el modelo de derechos humanos supera al modelo social, y sostiene que la CDPD introdujo un concepto nuevo de igualdad: **la igualdad transformativa**.
+
+Del texto, para el debate sobre cuidados y apoyos:
+
+> «Incluso en una sociedad sin barreras y sin otras formas de discriminación, las personas necesitan derechos sociales, económicos y culturales. […] **Y además, porque la deficiencia a menudo genera necesidades de asistencia, es especialmente cierto que las personas con discapacidad necesitan más que derechos civiles y políticos.** […] **Resulta por ello ilustrativo que el movimiento mundial de vida independiente haya formulado siempre sus demandas en términos de derechos humanos amplios, y no en términos de puros derechos antidiscriminatorios.**»
+
+Y la correspondencia entre modelos de discapacidad y concepciones de la igualdad: **modelo médico → igualdad formal; modelo social → igualdad sustantiva; modelo de derechos humanos → igualdad transformativa**, que «no solo requiere la eliminación de las barreras a la inclusión, sino también medidas positivas que inicien un cambio real y que aborden las relaciones jerárquicas de poder».
+
+**Traducción (español):** https://github.com/tksh21-githab/relavin/blob/main/crpd/degener-2016-la-discapacidad-en-clave-de-derechos-humanos.md
+**Original:** *Laws* 5(3), 35 · https://doi.org/10.3390/laws5030035 · acceso abierto CC BY 4.0
